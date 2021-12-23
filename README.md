@@ -2,7 +2,7 @@
  基于vue-node.js外卖系统
  
 # 技术栈
-vue + vuex + vue-router + webpack + ES6 + fetch + sass + flex + svg + node.js + mongodbless + element-ui 
+vue + vuex + vue-router + webpack + ES6  + sass + flex + svg + node.js + mongodbless + element-ui 
  
 # 项目
  back:后台
